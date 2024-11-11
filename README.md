@@ -6,7 +6,11 @@ Greetings! This project details my analysis of jobs within the data industry.
 
 This dashboard was created to synthesize data on salaries of data related jobs across different countries and positions. 
 
-[Checkout my work here](Final_Dashboard_)
+[Checkout my work here](https://github.com/Julien-Collins/Excel_Project-Data_Analysis/blob/main/Final_Dashboard_.xlsx)
+
+
+[Download Final Dashboard](https://github.com/Julien-Collins/Excel_Project-Data_Analysis/raw/main/Final_Dashboard_.xlsx)
+
 
 ![Screenshot 2024-11-11 134440](https://github.com/user-attachments/assets/40754165-23c2-46a4-aefa-6252d31978b9) 
 
@@ -14,7 +18,12 @@ This dashboard was created to synthesize data on salaries of data related jobs a
 
 Here I explore the relationship between the various skills needed per job and the salary associated with those skills.
 
+[Checkout my second project here](https://github.com/Julien-Collins/Excel_Project-Data_Analysis/blob/main/Project_2-Analysis.xlsx)
+
+[Download Project 2 Analysis](https://github.com/Julien-Collins/Excel_Project-Data_Analysis/raw/main/Project_2-Analysis.xlsx)
 
 ![Screenshot-2](https://github.com/user-attachments/assets/4cd90a04-838d-4f68-bd45-6c8963fb186e)
 
 ![Screenshot-3](https://github.com/user-attachments/assets/ec2f5da9-71eb-48b0-9516-456fd21f0091)
+
+
