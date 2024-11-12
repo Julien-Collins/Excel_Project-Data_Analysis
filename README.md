@@ -110,7 +110,7 @@ After extracting, transforming, and cleaning the data, I created a table and cha
 
 As displayed on the table and chart, it appears that Python and SQL are evidently associated with higher paying roles in the data professional space. These skills are far more likely to appear in requested skills for any job postings, therefore becoming proficient in these is critical to being a sought after candidate.
 
-## Conclusion
+## Conclusion:
 
 As an aspiring data analyst, I used this project to explore the various positions within the industry, as well as the skills, salaries, and locations associated with such positions. Using features like Power Query, Power Pivot, PivotTables, and charts, I was able to draw insightful conlcusions about which skills are worth focusing on, and what data jobs are correlated with higher salaries. Hopefully these insights will inspre other aspiring data professionals. 
 
